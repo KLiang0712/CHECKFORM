@@ -8,5 +8,5 @@ CRUD: Create-Read-Update-Delete
 <br>
 Learn to create a task, read it in, update it, and delete a task once complete. 
 
-# Output
+# Example Output
 ![todolist2-1](https://github.com/KLiang0712/REACTFILE-KL0712/assets/41204344/c20c73cc-9531-4e02-b77a-be3e6846ef62)
