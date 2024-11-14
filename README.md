@@ -3,7 +3,13 @@ This is my first ReactJS project for TECH I.S. Boot Camp.<br>
 It is a sample to-do list web app where we list out basic tasks, mark as complete, and deleting them once done. 
 
 # Skillset
-# Getting Started with Create React App
+## Self-Study Skill
+A basic concept or framework learned through developing in ReactJS for this project is<br> 
+CRUD: Create-Read-Update-Delete 
+<br>
+Learn to create a task, read it in, update it, and delete a task once complete. 
+
+## Getting Started with Create React App
 These projects was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Available Scripts
@@ -42,39 +48,27 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ## Learn More
-
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
 ### Analyzing the Bundle Size
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
 ### Making a Progressive Web App
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
 ### Advanced Configuration
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
 ### Deployment
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
-
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
-A basic concept or framework learned through developing in ReactJS for this project is<br> 
-CRUD: Create-Read-Update-Delete 
-<br>
-Learn to create a task, read it in, update it, and delete a task once complete. 
 
 # Example Output
 ![todolist2-1](https://github.com/KLiang0712/REACTFILE-KL0712/assets/41204344/c20c73cc-9531-4e02-b77a-be3e6846ef62)
